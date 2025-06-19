@@ -25,10 +25,14 @@ Plotly, Seaborn, Matplotlib (visualización)
 Jupyter Notebook
 
  **Cómo ejecutar el proyecto**
- 
-Clona el repositorio:
 
-git clone(https://github.com/AlexTovar31/Challenge_Telecom_X)
+ link de la base de datos de telecomx
+
+ https://raw.githubusercontent.com/alura-cursos/challenge2-data-science-LATAM/refs/heads/main/TelecomX_Data.json
+ 
+Link del repositorio:
+
+(https://github.com/AlexTovar31/Challenge_Telecom_X)
 Instala las dependencias:
 
 pip install -r requirements.txt
